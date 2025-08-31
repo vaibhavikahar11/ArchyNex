@@ -88,5 +88,5 @@ This project is licensed under the MIT License — see the LICENSE file for deta
 **Vaibhvai Kahar**
 📧 [vaibhavikahar11@gmail.com](mailto:vaibhavikahar11@gmail.com)
 💼 [LinkedIn](https://www.linkedin.com/in/vaibhavi-kahar/)
-🌐 [Portfolio](vaibhavi-portfolio-umber.vercel.app)
+🌐 [Portfolio](https://vaibhavi-portfolio-umber.vercel.app/)
 
