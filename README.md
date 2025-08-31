@@ -39,7 +39,7 @@ Archynex is an AI-assisted system architecture design platform that enables engi
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/shivam-jondhale/Archynex__
+git clone https://github.com/vaibhavikahar11/ArchyNex
 cd Archynex__
 npm install
 # Add Gemini API key 
@@ -68,6 +68,14 @@ Visit **[http://localhost:3000](http://localhost:3000)** to start building.
 4. Deploy.
 
 ---
+## 👥 Contributions
+
+This project was collaboratively developed with the following responsibilities:
+
+- **Shivam Jondhale** – UI/UX Design, State Management (Zustand), and Testing 
+- **Vaibhavi Kahar** – Frontend Development (React, Next.js, TypeScript) & AI Integration (Gemini API)  
+- **Shivani Jare** – Quality Assurance & Performance Optimization  
+- **Sneha Ghadge** – Deployment (Vercel), Version Control, and DevOps Support  
 
 
 ## 📄 License
@@ -77,8 +85,8 @@ This project is licensed under the MIT License — see the LICENSE file for deta
 ---
 
 ## 📢 Author
-
-**Shivam Jondhale**
-📧 [shivamjondhale82@gmail.com](mailto:shivamjondhale82@gmail.com)
-💼 [LinkedIn](https://www.linkedin.com/in/shivam-jondhale-a78ba9375)
+**Vaibhvai Kahar**
+📧 [vaibhavikahar11@gmail.com](mailto:vaibhavikahar11@gmail.com)
+💼 [LinkedIn](https://www.linkedin.com/in/vaibhavi-kahar/)
 🌐 [Portfolio](https://shivam-portfolio-tan.vercel.app/)
+
